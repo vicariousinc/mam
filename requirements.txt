@@ -1,0 +1,9 @@
+jax==0.2.20
+jaxlib==0.1.71+cuda111 -f https://storage.googleapis.com/jax-releases/jax_releases.html
+networkx
+imageio
+scikit-image==0.17.2
+numpy
+scipy
+tqdm
+numba
